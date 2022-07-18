@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BankingSystemModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TransactionHistory">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FromAccount" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="ToAccount" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Amount" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="TransactionDate" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="BankingSystemEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TransactionHistories" EntityType="Self.TransactionHistory" />
+    <EntitySet Name="Registrations" EntityType="BankingSystemModel.Registration" />
+  </EntityContainer>
+  <EntityType Name="Registration">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AadharNo" Type="Int64" />
+    <Property Name="PanCard" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="EmpID" Type="Int32" />
+    <Property Name="EmpName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Gender" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="DOB" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="AccountType" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="PhoneNo" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="EmailID" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Address" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Name="Password" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="InitialAmount" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="IsActive" Type="Int32" />
+  </EntityType>
+</Schema>

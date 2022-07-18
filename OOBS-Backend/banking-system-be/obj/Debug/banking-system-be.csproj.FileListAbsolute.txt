@@ -1,0 +1,269 @@
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\banking-system-be.dll.config
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\banking-system-be.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\banking-system-be.pdb
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\csc.exe
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\csc.exe.config
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\csc.rsp
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\csi.exe
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\csi.exe.config
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\csi.rsp
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\System.AppContext.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\System.Collections.Immutable.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\System.Console.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\System.IO.Compression.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\System.IO.FileSystem.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\System.IO.Pipes.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\System.Reflection.Metadata.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\System.Security.AccessControl.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\System.Security.Claims.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\System.ValueTuple.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\System.Xml.XPath.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\vbc.exe
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\vbc.exe.config
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\vbc.rsp
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\VBCSCompiler.exe
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\roslyn\VBCSCompiler.exe.config
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\Antlr3.Runtime.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\EntityFramework.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\EntityFramework.SqlServer.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\Microsoft.Web.Infrastructure.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\Newtonsoft.Json.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\System.Net.Http.Formatting.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\System.Web.Helpers.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\System.Web.Http.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\System.Web.Http.WebHost.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\System.Web.Mvc.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\System.Web.Optimization.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\System.Web.Razor.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\System.Web.WebPages.Deployment.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\System.Web.WebPages.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\System.Web.WebPages.Razor.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\WebGrease.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\EntityFramework.xml
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\EntityFramework.SqlServer.xml
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\Newtonsoft.Json.xml
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\System.Net.Http.Formatting.xml
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\System.Web.Helpers.xml
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\System.Web.Http.xml
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\System.Web.Http.WebHost.xml
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\System.Web.Mvc.xml
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\System.Web.Optimization.xml
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\System.Web.Razor.xml
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\System.Web.WebPages.xml
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\System.Web.WebPages.Deployment.xml
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\System.Web.WebPages.Razor.xml
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\Antlr3.Runtime.pdb
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\obj\Debug\banking-system-be.csprojAssemblyReference.cache
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\obj\Debug\banking-system-be.csproj.CoreCompileInputs.cache
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\obj\Debug\banking-system-be.csproj.CopyComplete
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\obj\Debug\banking-system-be.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\obj\Debug\banking-system-be.pdb
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\System.Web.Cors.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\System.Web.Http.Cors.dll
+D:\Youtube Channel\Student Projects\Banking System\banking-system-be\banking-system-be\bin\System.Web.Http.Cors.xml
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\banking-system-be.dll.config
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\banking-system-be.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\banking-system-be.pdb
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\csc.exe
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\csc.exe.config
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\csc.rsp
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\csi.exe
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\csi.exe.config
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\csi.rsp
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\Microsoft.Managed.Core.targets
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\System.AppContext.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\System.Collections.Immutable.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\System.Console.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\System.IO.Compression.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\System.IO.FileSystem.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\System.IO.Pipes.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\System.Reflection.Metadata.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\System.Security.AccessControl.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\System.Security.Claims.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\System.Security.Principal.Windows.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\System.ValueTuple.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\System.Xml.XmlDocument.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\System.Xml.XPath.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\vbc.exe
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\vbc.exe.config
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\vbc.rsp
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\VBCSCompiler.exe
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\roslyn\VBCSCompiler.exe.config
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\Antlr3.Runtime.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\EntityFramework.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\EntityFramework.SqlServer.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\Microsoft.Web.Infrastructure.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\Newtonsoft.Json.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\System.Net.Http.Formatting.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\System.Web.Cors.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\System.Web.Helpers.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\System.Web.Http.Cors.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\System.Web.Http.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\System.Web.Http.WebHost.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\System.Web.Mvc.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\System.Web.Optimization.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\System.Web.Razor.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\System.Web.WebPages.Deployment.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\System.Web.WebPages.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\System.Web.WebPages.Razor.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\WebGrease.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\EntityFramework.xml
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\EntityFramework.SqlServer.xml
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\System.Net.Http.Formatting.xml
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\System.Web.Http.xml
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\System.Web.Http.Cors.xml
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\Newtonsoft.Json.xml
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\System.Web.Helpers.xml
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\System.Web.Http.WebHost.xml
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\System.Web.Mvc.xml
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\System.Web.Optimization.xml
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\System.Web.Razor.xml
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\System.Web.WebPages.xml
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\System.Web.WebPages.Deployment.xml
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\System.Web.WebPages.Razor.xml
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\Antlr3.Runtime.pdb
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\obj\Debug\banking-system-be.csproj.AssemblyReference.cache
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\obj\Debug\banking-system-be.csproj.CoreCompileInputs.cache
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\obj\Debug\banking-system-be.csproj.CopyComplete
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\obj\Debug\banking-system-be.dll
+E:\MFPE\BANKING SYSTEM\banking-system-be\banking-system-be\obj\Debug\banking-system-be.pdb
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\banking-system-be.dll.config
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\banking-system-be.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\banking-system-be.pdb
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\csc.exe
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\csc.exe.config
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\csc.rsp
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\csi.exe
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\csi.exe.config
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\csi.rsp
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\Microsoft.Managed.Core.targets
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\System.AppContext.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\System.Collections.Immutable.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\System.Console.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\System.IO.Compression.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\System.IO.FileSystem.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\System.IO.Pipes.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\System.Reflection.Metadata.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\System.Security.AccessControl.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\System.Security.Claims.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\System.Security.Principal.Windows.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\System.ValueTuple.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\System.Xml.XmlDocument.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\System.Xml.XPath.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\vbc.exe
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\vbc.exe.config
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\vbc.rsp
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\VBCSCompiler.exe
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\roslyn\VBCSCompiler.exe.config
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\Antlr3.Runtime.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\EntityFramework.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\EntityFramework.SqlServer.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\Microsoft.Web.Infrastructure.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\Newtonsoft.Json.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\System.Net.Http.Formatting.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\System.Web.Cors.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\System.Web.Helpers.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\System.Web.Http.Cors.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\System.Web.Http.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\System.Web.Http.WebHost.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\System.Web.Mvc.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\System.Web.Optimization.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\System.Web.Razor.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\System.Web.WebPages.Deployment.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\System.Web.WebPages.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\System.Web.WebPages.Razor.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\WebGrease.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\EntityFramework.xml
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\EntityFramework.SqlServer.xml
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\System.Net.Http.Formatting.xml
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\System.Web.Http.xml
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\System.Web.Http.Cors.xml
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\Newtonsoft.Json.xml
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\System.Web.Helpers.xml
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\System.Web.Http.WebHost.xml
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\System.Web.Mvc.xml
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\System.Web.Optimization.xml
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\System.Web.Razor.xml
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\System.Web.WebPages.xml
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\System.Web.WebPages.Deployment.xml
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\System.Web.WebPages.Razor.xml
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\Antlr3.Runtime.pdb
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\obj\Debug\banking-system-be.csproj.AssemblyReference.cache
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\obj\Debug\banking-system-be.csproj.CoreCompileInputs.cache
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\obj\Debug\banking-system-be.csproj.CopyComplete
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\obj\Debug\banking-system-be.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\obj\Debug\banking-system-be.pdb
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\Swashbuckle.Core.dll
+E:\MFPE\Online Organization Banking System\OOBS-Backend\banking-system-be\bin\WebActivatorEx.dll
